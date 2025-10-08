@@ -61,7 +61,7 @@ LSA: 314.16
 ---
 
 ## 📸 Preview
-![demo](https://via.placeholder.com/600x200?text=Demo+Screenshot)  
+'Not available currently...  '
 
 ---
 
