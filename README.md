@@ -17,7 +17,7 @@ A Java project to calculate **Volume**, **Total Surface Area (TSA)**, and **Late
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/3D-Shapes.git
+git clone https://github.com/subhrajeet06/3D-Shapes.git
 ```
 
 ### 2️⃣ Open in Eclipse/IntelliJ/VS Code  
