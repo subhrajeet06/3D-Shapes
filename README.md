@@ -61,7 +61,7 @@ LSA: 314.16
 ---
 
 ## 📸 Preview
-'Not available currently...  '
+*Not available currently...*
 
 ---
 
@@ -71,8 +71,8 @@ Pull requests are welcome! If you’d like to add more shapes or improve the UI,
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
+This project is independently owned by *Subhrajeet*, and is not intended for public use.
 
 ---
 
-✨ **Made with ❤️ in Java**  
+✨ **Made with ❤️ in Eclipse IDE**  
